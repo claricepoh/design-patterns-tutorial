@@ -1,5 +1,6 @@
 # Singleton Pattern
 Singleton is a creational design pattern that ensures a class has only one instance, and provides a global point of access to this instance. 
+
 Key Characteristic:
 <li> Single Instance: The class controls the instantiation process, ensure only one instance of the class exists.
 <li> Global Access: The single instance is globally accessible thoughout the application, via a static method
