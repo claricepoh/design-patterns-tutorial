@@ -7,11 +7,9 @@ Key Characteristic:
 <li> Lazy Initialization: The instance is usually created only when it is first needed.
   
 ## When to use
-This is useful in scenarios where exactly one object of a class is needed across the application. 
-And, the following factors are considered when designing application:
-<li> Singleton ensures that all parts of the application consistent access to the same configuration data, session data
-<li> Singleton optimises resource efficientcy. Creating multiple instances unnecessarily consumes resources
-     (memory, CPU, network) and can lead to performance issues.
+This is useful in scenarios where exactly one object of a class is needed across the application with consideration as below.
+<li> Singleton ensures that all parts of the application have consistent access to the same configuration data, session data
+<li> Singleton optimises resource efficientcy. Creating multiple unnecessary instances consumes resources (memory, CPU, network) and can lead to performance issues.
 <li> Singleton ensures thread safety that instance is not instantiated multiple times in a multi-threaded environment, preventing possible data corruption.
 
 Examples: 
