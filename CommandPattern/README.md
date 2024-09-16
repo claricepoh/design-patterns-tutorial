@@ -4,7 +4,7 @@ or trigger an event.
 
 ## When to use
 <li> When there is a need to decouple the invoker (the object that triggers an operation) from the receiver (the object that knows how to perform the operation.
-<li> Use for queueing or scheduling jobs. 
+<li> Use for queueing jobs or scheduling tasks. 
   
 ## How to implement
 Refer code snippet. Key components:
