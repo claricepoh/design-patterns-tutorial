@@ -5,7 +5,7 @@ to be instantiated, but delegates the responsibility of object creation to its s
 ## When to use
 <li> When there is a framework or system where the type of objects being created changes frequently or needs to be decided dynamically. 
 <li> When object creation needs to be encapsulated by a central factory class, where the type of objects to be created may change or increase
-     over time. This pattern allows new object types to be added (flexibility and extension) without changing the existing code in the rest of application 
+     over time. This pattern allows new object types to be added without changing the existing code in the rest of application.  
 <li> When the creation of objects involves logic that may vary across subclasses; factory pattern abstracts the instantiation process and 
      let the subclasses decide which class to instantiate. 
  
