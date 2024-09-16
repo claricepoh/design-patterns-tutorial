@@ -10,7 +10,7 @@ to be instantiated, but delegates the responsibility of object creation to its s
      let the subclasses decide which class to instantiate. 
  
 ## How to implement
-Key components:
+Refer code snippet. Key components:
 <li> Creator (Factory): An abstract class or interface that defines a factory method for instantiating different types of objects.
 <li> Concrete Creator: Implements the factory method to instantiate specific object instances.
 <li> Product: An abstract class or interface that defines common behavior of the objects created by factory method.
