@@ -1,4 +1,4 @@
-# Command Pattern
+## Command Pattern
 The command pattern is a behavioral design pattern that encapsulates all information needed to perform an action 
 or trigger an event. 
 
