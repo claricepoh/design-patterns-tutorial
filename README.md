@@ -10,3 +10,6 @@
 ## Behavioral Patterns
 <li><a href="https://github.com/claricepoh/design-patterns-tutorial/tree/main/StrategyPattern">Strategy Pattern</a>
 <li><a href="https://github.com/claricepoh/design-patterns-tutorial/tree/main/CommandPattern">Command Pattern</a>
+
+## Others
+<li><a href="https://github.com/claricepoh/design-patterns-tutorial/tree/main/DependencyInjection">Dependency Injection</a>
