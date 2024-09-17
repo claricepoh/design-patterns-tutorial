@@ -23,7 +23,7 @@ DI adheres to the IoC principle, where the control of dependency creation is mov
 Configuration of Dependencies: DI containers or frameworks provide centralized control over dependency creation and lifecycle management, such as configuration of which dependencies should be injected and manage them from a single location. 
 
 ##### Reduces Code Duplication
-By injecting dependencies rather than creating them in different classes, DI avoids duplication of code responsibile for managing and configuring dependencies. This adhere to a DRY (Don't Repeat Yourself) approach.
+By injecting dependencies rather than creating them in different classes, DI avoids duplication of code responsible for managing and configuring dependencies. This adhere to a DRY (Don't Repeat Yourself) approach.
 
 ### How to implement
 Refer code snippet.
